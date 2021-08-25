@@ -41,7 +41,7 @@ A 22Y/O Software🌈 and App developer🎯 from India. I'm passionate about Mobi
 
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/git.png?raw=true" height="60" width="60">
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/vs.png?raw=true" height="60" width="60">
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/bootstrap.png?raw=true" height="60" width="60">
+
 <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
 
 
@@ -51,7 +51,7 @@ A 22Y/O Software🌈 and App developer🎯 from India. I'm passionate about Mobi
 
 ## 🏆 Github Status
 
-<img  src="https://github-readme-stats.vercel.app/api?username=HarshitMadhupt&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
+<img  src="https://github-readme-stats.vercel.app/api?username=HarshitMadhup&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
 
 
 <br>
@@ -66,7 +66,6 @@ A 22Y/O Software🌈 and App developer🎯 from India. I'm passionate about Mobi
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/_the.odist_/?hl=en)
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/subhampreet.mohanty/)
 
-[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://subhampreet-mohanty-6cdeb.web.app/)
 
 
 

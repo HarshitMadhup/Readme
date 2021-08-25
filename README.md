@@ -3,7 +3,7 @@
 
 <h1 align="center"> नमस्ते (Namaste), I'm Harshit Madhup <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 
-<h3 align="center">I'm a Software and App Developer from India ❤</h3>
+<h3 align="center">I'm a B.Tech UnderGraduate from VIT VELLORE. I am a Software and App Developer.</h3>
   
 A 22Y/O Software🌈 and App developer🎯 from India. I'm passionate about Mobile Applications Development.:bar_chart:. I like building innovative apps, solving problems and improving efficiency and performance. 
 
@@ -16,7 +16,7 @@ A 22Y/O Software🌈 and App developer🎯 from India. I'm passionate about Mobi
 
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on Flutter projects.
-- 📫 How to reach me: You may follow me on [Instagram]
+- 📫 How to reach me: You may follow me on [Instagram][Linkedin]
 - 😄 Pronouns: he/him/his
 
 <br />

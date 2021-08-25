@@ -1,4 +1,4 @@
-![pngaaa com-5042955](https://user-images.githubusercontent.com/72512986/130849745-114c37d7-95e4-4157-a3fb-e31e56b7daa9.png)
+
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
 <h1 align="center"> नमस्ते (Namaste), I'm Harshit Madhup <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
@@ -41,7 +41,7 @@ A 22Y/O Software🌈 and App developer🎯 from India. I'm passionate about Mobi
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/sql.png?raw=true" height="60" width="60">
 
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/git.png?raw=true" height="60" width="60">
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/vs.png?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/vs.png?raw=true" height="60" width="60" fit="fill">
 
 <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
 <img src="https://github.com/HarshitMadhup/Readme/blob/main/flutter.png" height="60" width="60">

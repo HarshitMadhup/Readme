@@ -9,7 +9,7 @@ A 22Y/O Software🌈 and App developer🎯 from India. I'm passionate about Mobi
 
 ![age](https://img.shields.io/badge/age-22-blue)
 
-![living](https://img.shields.io/badge/living-Bhubaneswar-3c9)
+![living](https://img.shields.io/badge/living-Bokaro-3c9)
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 

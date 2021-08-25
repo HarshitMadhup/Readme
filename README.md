@@ -51,7 +51,7 @@ A 22Y/O Software🌈 and App developer🎯 from India. I'm passionate about Mobi
 
 ## 🏆 Github Status
 
-<img  src="https://github-readme-stats.vercel.app/api?username=HarshitMadhup&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
+<img  src="https://github-readme-stats.vercel.app/api?username=HarshitMadhup&show_icons=true&hide_border=true&theme=dark&count_private=true" width="45%" align="right" >
 
 
 <br>

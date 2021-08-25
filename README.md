@@ -5,7 +5,7 @@
 
 <h3 align="center">I'm a B.Tech UnderGraduate from VIT VELLORE. I am a Software and App Developer.</h3>
   
-A 22Y/O Software🌈 and App developer🎯 from India. I'm passionate about Mobile Applications Development.:bar_chart:. I like building innovative apps, solving problems and improving efficiency and performance. 
+A 22Y/O Software and App developer🎯 from India. I'm passionate about Mobile Applications Development. I like building innovative apps, solving problems and improving efficiency and performance. 
 
 
 ![age](https://img.shields.io/badge/age-22-blue)
@@ -31,7 +31,7 @@ A 22Y/O Software🌈 and App developer🎯 from India. I'm passionate about Mobi
   <img src="https://github.com/HarshitMadhup/Readme/blob/main/flutter.svg" height="60" width="60">
 
 
-<img src="https://github.com/HarshitMadhup/Readme/blob/main/java.png" height="60" width="60">
+<img src="https://github.com/HarshitMadhup/Readme/blob/main/java.svg" height="60" width="60">
 
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/css.png?raw=true" height="60" width="60">
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/html.png?raw=true" height="60" width="60">

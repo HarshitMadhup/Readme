@@ -1,3 +1,4 @@
+
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
 <h1 align="center"> नमस्ते (Namaste), I'm Harshit Madhup <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
@@ -32,7 +33,7 @@ A 22Y/O Software🌈 and App developer🎯 from India. I'm passionate about Mobi
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/css.png?raw=true" height="60" width="60">
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/html.png?raw=true" height="60" width="60">
 
-<img src="https://img.icons8.com/color/452/mongodb.png" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/JS.png?raw=true" height="60" width="60">
 
 <br>
 
@@ -40,10 +41,10 @@ A 22Y/O Software🌈 and App developer🎯 from India. I'm passionate about Mobi
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/sql.png?raw=true" height="60" width="60">
 
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/git.png?raw=true" height="60" width="60">
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/vs.png?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/vs.png?raw=true" height="60" width="60" fit="fill">
 
 <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
-
+<img src="https://github.com/HarshitMadhup/Readme/blob/main/flutter.png" height="60" width="60">
 
 </div>
 

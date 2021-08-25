@@ -30,7 +30,8 @@ A 22Y/O Software🌈 and App developer🎯 from India. I'm passionate about Mobi
 <img src="https://github.com/HarshitMadhup/Readme/blob/main/dart.svg" height="60" width="60">
   <img src="https://github.com/HarshitMadhup/Readme/blob/main/flutter.svg" height="60" width="60">
 
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/JS.png?raw=true" height="60" width="60">
+
+<img src="https://github.com/HarshitMadhup/Readme/blob/main/java.png" height="60" width="60">
 
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/css.png?raw=true" height="60" width="60">
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/html.png?raw=true" height="60" width="60">

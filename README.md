@@ -51,7 +51,7 @@ A 22Y/O Software and App developer🎯 from India. I'm passionate about Mobile A
 </div>
 
 <br >
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HarshitMadhup&repo=CoviCare_Project)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HarshitMadhup&repo=CoviCare_Project)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ## 🏆 Github Status
 
